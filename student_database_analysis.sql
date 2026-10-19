@@ -1,4 +1,4 @@
--- Creating tales in the database: tearches_tbl, classes, subject, student, enrollment, scores, attendance, fees
+-- Creating tables in the database: teachers_tbl, classes, subject, student, enrollment, scores, attendance, fees
 -- 1. teachers_tbl
 
 CREATE TABLE teachers_tbl(
@@ -408,7 +408,7 @@ SELECT st.student_id,
        st.first_name,
        st.last_name,
        f.amount_due - f.amount_paid AS fee_balance
-FROM students st
+FROM student st
 JOIN fees f
     ON st.student_id = f.student_id
 WHERE f.amount_due - f.amount_paid > (
