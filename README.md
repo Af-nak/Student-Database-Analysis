@@ -6,6 +6,8 @@ This project focuses on exploring and analyzing a school database using SQL. The
 
 The project demonstrates how SQL can be used to query relational databases, summarize records, combine information from multiple tables, identify missing data, and answer practical questions about school operations.
 
+![Student Database Analysis Screenshot](Screenshot%202026-10-19%20131611.png)
+
 ## Project Objectives
 
 - Retrieve and filter student records based on specific conditions.
@@ -25,7 +27,7 @@ The project uses a relational school database containing the following tables:
 | Table | Description |
 |---|---|
 | student | Contains student information, including names, gender, state, date of birth, admission date, status, and class assignment. |
-| class| Contains class information and class teacher assignments. |
+| classes| Contains class information and class teacher assignments. |
 | teachers_tbl | Contains teacher information, including names and employment dates. |
 | subject | Contains subject details. |
 | scores | Stores student scores for different subjects. |
