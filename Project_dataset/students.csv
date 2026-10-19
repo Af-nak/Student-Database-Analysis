@@ -1,0 +1,29 @@
+student_id,first_name,last_name,gender,date_of_birth,state,admission_date,class_id,status
+1001,Amina,Yusuf,Female,2012-03-14,Lagos,2026-01-10,1,Active
+1002,Daniel,Okoro,Male,2011-11-02,Lagos,2026-01-10,1,Active
+1003,Fatima,Abdullahi,Female,2012-07-21,Kano,2026-01-11,1,Active
+1004,Samuel,Adekunle,Male,2011-09-30,Oyo,2026-01-11,2,Active
+1005,Zainab,Musa,Female,2012-01-18,Kaduna,2026-01-12,2,Active
+1006,David,Eze,Male,2011-05-09,Enugu,2026-01-12,2,Active
+1007,Mary,Johnson,Female,2010-12-28,Lagos,2026-01-13,3,Active
+1008,Ibrahim,Sani,Male,2011-02-15,Kano,2026-01-13,3,Active
+1009,Esther,Olawale,Female,2010-08-19,Ogun,2026-01-14,4,Active
+1010,Michael,Udo,Male,2010-04-11,Akwa Ibom,2026-01-14,4,Active
+1011,Hauwa,Bello,Female,2009-10-05,Kano,2026-01-15,5,Active
+1012,Peter,Nwosu,Male,2009-06-22,Anambra,2026-01-15,5,Active
+1013,Aisha,Garba,Female,2009-01-17,Kaduna,2026-01-16,6,Active
+1014,John,Obi,Male,2008-11-09,Lagos,2026-01-16,6,Active
+1015,Blessing,Okeke,Female,2008-03-26,Enugu,2026-01-17,7,Active
+1016,Yusuf,Ibrahim,Male,2008-07-14,Kano,2026-01-17,7,Active
+1017,Chidinma,Eze,Female,2008-09-03,Enugu,2026-01-18,8,Active
+1018,Emeka,Okafor,Male,2007-12-12,Anambra,2026-01-18,8,Active
+1019,Grace,Adeola,Female,2011-03-08,Lagos,2026-01-19,1,Active
+1020,Joseph,Akin,Male,2010-06-16,Ogun,2026-01-19,3,Active
+1021,Sarah,Ojo,Female,2009-08-24,Lagos,2026-01-20,5,Active
+1022,Musa,Ahmed,Male,2008-02-01,Kaduna,2026-01-20,7,Active
+1023,Deborah,Cole,Female,2012-05-27,Rivers,2026-01-21,2,Active
+1024,Isaac,Bassey,Male,2011-10-18,Cross River,2026-01-21,4,Active
+1025,Linda,Chukwu,Female,2009-04-02,Imo,2026-01-22,6,Inactive
+1026,Oluwatobi,Adeniyi,Male,2008-12-29,Oyo,2026-01-22,8,Active
+1027,Nneka,Ike,Female,2010-01-30,Anambra,2026-01-23,4,Active
+1028,Ahmed,Usman,Male,2012-09-09,Kano,2026-01-23,1,Active

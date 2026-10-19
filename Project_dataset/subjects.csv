@@ -1,0 +1,10 @@
+subject_id,subject_name,subject_type,teacher_id
+1,Mathematics,Core,4
+2,English Language,Core,4
+3,Basic Science,Core,3
+4,Computer Studies,Elective,6
+5,Biology,Elective,4
+6,Physics,Elective,3
+7,Chemistry,Elective,5
+8,Economics,Elective,7
+9,Civic Education,Core,8

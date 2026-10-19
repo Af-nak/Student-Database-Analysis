@@ -1,0 +1,9 @@
+class_id,class_name,level,arm,academic_year,teacher_id
+1,JSS1A,JSS1,A,2026,1
+2,JSS1B,JSS1,B,2026,2
+3,JSS2A,JSS2,A,2026,3
+4,JSS2B,JSS2,B,2026,4
+5,SS1A,SS1,A,2026,5
+6,SS1B,SS1,B,2026,6
+7,SS2A,SS2,A,2026,7
+8,SS2B,SS2,B,2026,8
